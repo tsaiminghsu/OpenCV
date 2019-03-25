@@ -5,7 +5,7 @@ using namespace cv;
 using namespace std;
 int main(int argc,char **argv)
 {
-    Mat image = imread("test.jpg",CV_LOAD_IMAGE_COLOR);
+    Mat image = imread("test.jpg");
     namedWindow("test",WINDOW_AUTOSIZE);
     imshow("test",image);
     waitKey(0);
