@@ -1,4 +1,4 @@
-#Install OpenCV 4.0 for Visual Studio with Windows 10(64 bits)
+# Install OpenCV 4.0 for Visual Studio with Windows 10(64 bits)
 ## 1.環境變數設定OpenCV Path
 C:\opencv\opencv\build\bin
 ## 2.OpenCV標頭檔
