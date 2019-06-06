@@ -7,3 +7,5 @@ C:\opencv\opencv\build\include
 C:\opencv\opencv\build\x64\vc15\lib
 ## 4.載入debug lib
 opencv_world400d.lib
+## 5.System32加入三個dll檔案
+opencv_world400.dll、opencv_world400d.dll、opencv_ffmpeg400_64.dll
