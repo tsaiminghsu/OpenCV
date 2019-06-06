@@ -12,8 +12,8 @@ int main() {
 		cout << "don't open." << endl;
 		return -1;
 	}
-	for (i = 0; i < src.row; i++) {
-		for (j = 0; j < src.col; j++) {
+	for (i = 0; i < src.rows; i++) {
+		for (j = 0; j < src.cols; j++) {
 			img1.at<uchar>(i, j) = 255 - src.at<uchar>(i, j);
 		}
 	}
