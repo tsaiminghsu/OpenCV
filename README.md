@@ -9,5 +9,5 @@ C:\opencv\opencv\build\x64\vc15\lib
 opencv_world400d.lib
 ## 5.System32加入三個dll檔案
 opencv_world400.dll、opencv_world400d.dll、opencv_ffmpeg400_64.dll
-## 6.Project1(VS2017)
+## 6.Project1(VS2017):黑白轉換 s = 255 - r
 ![image](https://github.com/tsaiminghsu/OpenCV_C/blob/master/opencv_lena_test.png)
